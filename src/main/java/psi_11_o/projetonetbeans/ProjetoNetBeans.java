@@ -9,6 +9,7 @@ package psi_11_o.projetonetbeans;
 public class ProjetoNetBeans {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");        
+        System.out.println("Hello World!");    
+        // comentário...
     }
 }
